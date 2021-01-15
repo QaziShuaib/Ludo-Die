@@ -17,3 +17,4 @@ And used it to process a number between 1 to 6 with the help of srand() and rand
 
 This project surely helped to me to learn the implementation of basics of C.
 Its library functions and time header.
+And, also helped me in Logic building.
